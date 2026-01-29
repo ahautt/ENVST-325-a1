@@ -53,5 +53,13 @@ temps_F <- temps*32
 
 # homework --------
 
+# Question 1
 
+elev_m <- elev_ft/3.281
+elev_m
+
+# Question 3
+
+longest <- c(peak_summits[2,])
+longest
 
